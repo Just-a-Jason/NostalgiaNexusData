@@ -5,8 +5,8 @@
     "Versions": [
       {
         "FileName": "Angry Birds Classic v3.0.0.zip",
-        "Version": "3.0.0",
-        "DownloadLink": ""
+        "FileID": "1MGa-cYOlL5sDhOnRzFmeJ0PJQ9qDmFmTj",
+        "AppVersion": "3.0.0"
       }
     ]
   },
@@ -16,8 +16,8 @@
     "Versions": [
       {
         "FileName": "Angry Birds Space v1.6.zip",
-        "Version": "1.6",
-        "DownloadLink": ""
+        "FileID": "1CBlcamfpHqTDQ77hla9XSqED1bQ2srPJ",
+        "AppVersion": "1.6"
       }
     ]
   }
