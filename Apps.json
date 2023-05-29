@@ -1,13 +1,24 @@
 [
-    {
-        "Title": "Angry Birds Classic",
-        "IconPath": "Images/Apps/Angry Birds Classic/icon.jpg",
-        "Versions": [
-            {
-                "FileName": "Angry Birds Classic v3.0.0.zip",
-                "Version": "3.0.0",
-                "DownloadLink": ""
-            }
-        ]
-    }
+  {
+    "Title": "Angry Birds Classic",
+    "IconPath": "Images/Apps/Angry Birds Classic/icon.jpg",
+    "Versions": [
+      {
+        "FileName": "Angry Birds Classic v3.0.0.zip",
+        "Version": "3.0.0",
+        "DownloadLink": ""
+      }
+    ]
+  },
+  {
+    "Title": "Angry Birds Space",
+    "IconPath": "Images/Apps/Angry Birds Space/icon.jpg",
+    "Versions": [
+      {
+        "FileName": "Angry Birds Space v1.6.zip",
+        "Version": "1.6",
+        "DownloadLink": ""
+      }
+    ]
+  }
 ]
