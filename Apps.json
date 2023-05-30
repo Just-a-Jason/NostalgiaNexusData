@@ -1,7 +1,7 @@
 [
   {
     "Title": "Angry Birds Classic",
-    "IconPath": "Images/Apps/Angry Birds Classic/icon.jpg",
+    "IconPath": "Assets/Images/Apps/AB Classic.jpg",
     "Versions": [
       {
         "FileName": "Angry Birds Classic v3.0.0.zip",
@@ -12,7 +12,7 @@
   },
   {
     "Title": "Angry Birds Space",
-    "IconPath": "Images/Apps/Angry Birds Space/icon.jpg",
+    "IconPath": "Assets/Images/Apps/AB Space.jpg",
     "Versions": [
       {
         "FileName": "Angry Birds Space v1.6.zip",
@@ -23,7 +23,7 @@
   },
   {
     "Title": "Angry Birds Star Wars II",
-    "IconPath": "Images/Apps/Angry Birds Star Wars II/icon.jpg",
+    "IconPath": "Assets/Images/Apps/AB Star Wars II.jpg",
     "Versions": [
       {
         "FileName": "Angry Birds Star Wars II.zip",
@@ -34,7 +34,7 @@
   },
   {
     "Title": "Bad Piggies",
-    "IconPath": "Images/Apps/Bad Piggies/icon.jpg",
+    "IconPath": "Assets/Images/Apps/BP.jpg",
     "Versions": [
       {
         "FileName": "Bad Piggies v1.5.1.zip",
@@ -45,7 +45,7 @@
   },
   {
     "Title": "Angry Birds Star Wars",
-    "IconPath": "Images/Apps/Angry Birds Star Wars/icon.jpg",
+    "IconPath": "Assets/Images/Apps/AB Star Wars.jpg",
     "Versions": [
       {
         "FileName": "Angry Birds Star Wars v1.5.0.zip",
@@ -56,7 +56,7 @@
   },
   {
     "Title": "Angry Birds Seasons",
-    "IconPath": "Images/Apps/Angry Birds Seasons/icon.jpg",
+    "IconPath": "Assets/Images/Apps/AB Seasons.jpg",
     "Versions": [
       {
         "FileName": "Angry Birds Seasons v2.4.1.zip",
@@ -67,7 +67,7 @@
   },
   {
     "Title": "Angry Birds Rio",
-    "IconPath": "Images/Apps/Angry Birds Rio/icon.jpg",
+    "IconPath": "Assets/Images/Apps/AB Rio.jpg",
     "Versions": [
       {
         "FileName": "Angry Birds Rio v1.4.4.zip",
