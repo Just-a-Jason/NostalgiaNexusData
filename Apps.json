@@ -1,97 +1,89 @@
 [
   {
-    "Title": "Angry Birds Classic",
+    "AppName": "Angry Birds Classic",
     "IconName": "AB Classic.jpg",
     "Versions": [
       {
-        "FileName": "Angry Birds Classic v3.0.0.zip",
         "FileID": "1MGa-cYOlL5sDhOnRzFmeJ0PJQ9qDmFmT",
         "AppVersion": "3.0.0",
-        "FileSize": "58MB"
+        "FileSize": "58 MB"
       },
       {
-        "FileName": "Angry Birds Classic v1.0.0.zip",
         "FileID": "1nm_LrbHf8Wb3Uufp6bAXrr7CoT6eIrus",
         "AppVersion": "1.0.0",
-        "FileSize": "41MB"
+        "FileSize": "41 MB"
       }
     ]
   },
   {
-    "Title": "Angry Birds Space",
+    "AppName": "Angry Birds Space",
     "IconName": "AB Space.jpg",
     "Versions": [
       {
-        "FileName": "Angry Birds Space v1.6.zip",
         "FileID": "1CBlcamfpHqTDQ77hla9XSqED1bQ2srPJ",
         "AppVersion": "1.6",
-        "FileSize": "42MB"
+        "FileSize": "42 MB"
       }
     ]
   },
   {
-    "Title": "Angry Birds Star Wars II",
+    "AppName": "Angry Birds Star Wars II",
     "IconName": "AB Star Wars II.jpg",
     "Versions": [
       {
-        "FileName": "Angry Birds Star Wars II.zip",
         "FileID": "1_bk3ywktFN09XKhXSIQ0GHEyL8DwofkC",
         "AppVersion": "1.1.2",
-        "FileSize": "67MB"
+        "FileSize": "67 MB"
       }
     ]
   },
   {
-    "Title": "Bad Piggies",
+    "AppName": "Bad Piggies",
     "IconName": "BP.jpg",
     "Versions": [
       {
-        "FileName": "Bad Piggies v 1.5.1.zip",
         "FileID": "1HGyhBORGirqoHS_YG1PY_6FxRnO1rsYm",
         "AppVersion": "1.5.1",
-        "FileSize": "40MB"
+        "FileSize": "40 MB"
       },
       {
-        "FileName": "Bad Piggies.zip",
         "FileID": "1h23BXL4_FnYjKTHSb-J-0A95GvKpHwyn",
         "AppVersion": "1.0.0",
-        "FileSize": "44MB"
+        "FileSize": "44 MB"
       }
     ]
   },
   {
-    "Title": "Angry Birds Star Wars",
+    "AppName": "Angry Birds Star Wars",
     "IconName": "AB Star Wars.jpg",
     "Versions": [
       {
-        "FileName": "Angry Birds Star Wars v1.5.0.zip",
         "FileID": "1WthHoWqPRiNzasAb8Idib0rgfSRjQkDl",
         "AppVersion": "1.5.0",
-        "FileSize": "91MB"
+        "FileSize": "91 MB"
       }
     ]
   },
   {
-    "Title": "Angry Birds Seasons",
+    "AppName": "Angry Birds Seasons",
     "IconName": "AB Seasons.jpg",
     "Versions": [
       {
-        "FileName": "Angry Birds Seasons v2.4.1.zip",
         "FileID": "16xDhzepDFh__mjIMzRrYQsbkCPP9SNi7",
         "AppVersion": "2.4.1",
-        "FileSize": "53MB"
+        "FileSize": "53 MB"
       }
     ]
   },
   {
-    "Title": "Angry Birds Rio",
+    "AppName": "Angry Birds Rio",
     "IconName": "AB Rio.jpg",
     "Versions": [
       {
         "FileName": "Angry Birds Rio v1.4.4.zip",
         "FileID": "1cUbKX4NoHJHdlhpk-UuvHwRNQ4gTF7VA",
         "AppVersion": "1.4.4",
-        "FileSize": "51MB"
+        "FileSize": "51 MB"
       }
     ]
   }
