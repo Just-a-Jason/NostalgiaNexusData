@@ -1,5 +1,13 @@
 {
-  "blogs": [],
+  "blogs": [
+    {
+      "image": "https://avatars.githubusercontent.com/u/88512392?v=4",
+      "title": "The FNAF Maze Project: A Journey from 2D to 3D",
+      "author": "Jason.json",
+      "date": "24.02.2024",
+      "description": "We are going to switch to Unity engine. The game is made in TypeScript so far."
+    }
+  ],
   "pricing":[],
   "progress": 35
 }
