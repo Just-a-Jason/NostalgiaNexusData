@@ -4,6 +4,13 @@
       "image": "https://avatars.githubusercontent.com/u/88512392?v=4",
       "title": "Image lazy loading",
       "author": "Jason.json",
+      "date": "02.02.2024",
+      "description":"I've added a new banner on the top of the page. Now I am animating characters for the game!"
+    },
+    {
+      "image": "https://avatars.githubusercontent.com/u/88512392?v=4",
+      "title": "Image lazy loading",
+      "author": "Jason.json",
       "date": "27.02.2024",
       "description":"Hi just a quick update. I am working on tha game and I've added image-lazy loading to the website. It displays low-quality photos while loading them, sooo... Anyway I am working on 3D character controller and I am going to buy a program for animation called: \"Smack Studio\". It is easy to make 3D animation for sprites you can check it out if you want. It's just a very cool tool to make 3D animations with 2D sprites. That's all for now stay tuned folks! 🐻"
     },
