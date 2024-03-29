@@ -2,10 +2,10 @@
   "blogs": [
     {
       "image": "https://avatars.githubusercontent.com/u/88512392?v=4",
-      "title": "Animating characters!",
+      "title": "The Game Progress so far",
       "author": "Jason.json",
-      "date": "02.02.2024",
-      "description":"I've added a new banner on the top of the page. Now I am animating characters for the game!"
+      "date": "30.03.2024",
+      "description":"Hello! I’m diligently developing a game, investing as much time as possible into it. I’ve successfully implemented a menu and added features such as lobbies. In the future, I plan to release an early version of the game for download. Currently, the game supports joining private lobbies, kicking players, and personalizing your user experience by changing your username, icon, language, and keybinds. Supported languages so far are: Spanish, Polish, Italian, Turkish, Czech, Romanian and Vietnamse. My next steps involve some minor fixes, after which I’ll commence coding the multiplayer component. Stay tuned! 😊"
     },
     {
       "image": "https://avatars.githubusercontent.com/u/88512392?v=4",
@@ -13,6 +13,13 @@
       "author": "Jason.json",
       "date": "27.02.2024",
       "description":"Hi just a quick update. I am working on tha game and I've added image-lazy loading to the website. It displays low-quality photos while loading them, sooo... Anyway I am working on 3D character controller and I am going to buy a program for animation called: \"Smack Studio\". It is easy to make 3D animation for sprites you can check it out if you want. It's just a very cool tool to make 3D animations with 2D sprites. That's all for now stay tuned folks! 🐻"
+    },
+    {
+      "image": "https://avatars.githubusercontent.com/u/88512392?v=4",
+      "title": "Animating characters!",
+      "author": "Jason.json",
+      "date": "02.02.2024",
+      "description":"I've added a new banner on the top of the page. Now I am animating characters for the game!"
     },
     {
       "image": "https://avatars.githubusercontent.com/u/88512392?v=4",
@@ -30,5 +37,5 @@
     }
   ],
   "pricing":[],
-  "progress": 35
+  "progress": 45
 }
